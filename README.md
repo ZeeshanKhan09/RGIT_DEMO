@@ -1,2 +1,2 @@
 # RGIT_DEMO
-author : Zeeshan khan 
+author : Zeeshan khan Rajiv gandhi institute of technology
